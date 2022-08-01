@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+
+}
+.container {
+    margin: 45px 21%;
+    text-align: left;
+    border: 2px solid black;
+    padding: 40px;
+
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img {
+    width: 670px;
+    height: 200px;
+}
+h2 {
+    font-size: 20px;
+}
+ul {
+    font-size: 15px;
+}
